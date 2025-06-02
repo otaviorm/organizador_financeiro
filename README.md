@@ -28,3 +28,11 @@ Sistema simples de controle financeiro pessoal desenvolvido em **Python** com ba
    ```bash
    git clone https://github.com/seu-usuario/organizador-financeiro.git
    cd organizador-financeiro
+2. (Opcional) Crie um ambiente virtual:
+    ```bash
+    python -m venv venv
+    source venv/bin/activate #Se estiver no Linux/macOS
+    venv\Scripts\activate    #Se estiver no Windows
+3. Execute o arquivo principal:
+    ```bash
+    python app.py
