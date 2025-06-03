@@ -26,7 +26,7 @@ Sistema simples de controle financeiro pessoal desenvolvido em **Python** com ba
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/organizador-financeiro.git
+   git clone https://github.com/otaviorm/organizador-financeiro.git
    cd organizador-financeiro
 2. (Opcional) Crie um ambiente virtual:
     ```bash
